@@ -1,2 +1,2 @@
 git is free
-distributed version
+distributed version gpl
